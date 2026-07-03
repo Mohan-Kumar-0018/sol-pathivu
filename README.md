@@ -30,7 +30,7 @@ download, no API keys, no third-party transcript sites.
 ## Installation
 
 ```bash
-git clone https://github.com/<your-username>/sol-pathivu.git
+git clone https://github.com/Mohan-Kumar-0018/sol-pathivu.git
 cd sol-pathivu
 make install   # installs yt-dlp via Homebrew, if not already present
 ```
